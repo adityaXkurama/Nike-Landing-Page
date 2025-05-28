@@ -4,15 +4,17 @@ A sleek and modern **Nike Landing Page** built with a focus on clean design, res
 
 ## 🔥 Live Demo
 
-[Click here to view the live demo](https://your-live-demo-link.com)  
-*(Replace with your actual deployed link if available)*
+[Click here to view the live demo](https://adityaxkurama.github.io/Nike-Landing-Page/)  
+
 
 ---
 
 ## 📸 Screenshots
 
-![Nike Landing Page Screenshot](./screenshots/landing-page.png)  
-*(Optional – add a screenshot of your landing page in the `screenshots` folder)*
+![Nike Landing Page Screenshot](Screenshot1.png)  
+![Nike Landing Page Screenshot](Screenshot2.png)  
+![Nike Landing Page Screenshot](Screenshot3.png)  
+
 
 ---
 
@@ -28,22 +30,10 @@ A sleek and modern **Nike Landing Page** built with a focus on clean design, res
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3 / Tailwind CSS / Bootstrap *(mention what you used)*
-- JavaScript (optional, if any interactions)
-- [Google Fonts](https://fonts.google.com/) (optional)
+- React Js
+- HTML5 
+- CSS3 / Tailwind CSS 
+- JavaScript 
 
 ---
 
-## 📁 Folder Structure
-
-```bash
-Nike-Landing-Page/
-├── index.html
-├── style.css
-├── script.js (optional)
-├── images/
-│   └── ... (product/brand images)
-├── screenshots/
-│   └── landing-page.png
-└── README.md
