@@ -1,6 +1,6 @@
 # Nike Landing Page 🏃‍♂️👟
 
-A sleek and modern **Nike Landing Page** built with a focus on clean design, responsive layout, and user experience. This is a frontend project showcasing HTML, CSS (or Tailwind/Bootstrap), and JavaScript fundamentals.
+A sleek and modern **Nike Landing Page** built with a focus on clean design, responsive layout, and user experience. This is a frontend project showcasing HTML, Tailwind CSS, and JavaScript fundamentals.
 
 ## 🔥 Live Demo
 
