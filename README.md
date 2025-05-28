@@ -1,12 +1,49 @@
-# React + Vite
+# Nike Landing Page 🏃‍♂️👟
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and modern **Nike Landing Page** built with a focus on clean design, responsive layout, and user experience. This is a frontend project showcasing HTML, CSS (or Tailwind/Bootstrap), and JavaScript fundamentals.
 
-Currently, two official plugins are available:
+## 🔥 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Click here to view the live demo](https://your-live-demo-link.com)  
+*(Replace with your actual deployed link if available)*
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Screenshots
+
+![Nike Landing Page Screenshot](./screenshots/landing-page.png)  
+*(Optional – add a screenshot of your landing page in the `screenshots` folder)*
+
+---
+
+## 🚀 Features
+
+- Hero section with call-to-action
+- Product highlights with smooth transitions
+- Responsive design for mobile, tablet, and desktop
+- Clean UI inspired by Nike's branding
+- Custom font and color palette
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3 / Tailwind CSS / Bootstrap *(mention what you used)*
+- JavaScript (optional, if any interactions)
+- [Google Fonts](https://fonts.google.com/) (optional)
+
+---
+
+## 📁 Folder Structure
+
+```bash
+Nike-Landing-Page/
+├── index.html
+├── style.css
+├── script.js (optional)
+├── images/
+│   └── ... (product/brand images)
+├── screenshots/
+│   └── landing-page.png
+└── README.md

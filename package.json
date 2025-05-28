@@ -1,5 +1,6 @@
 {
   "name": "nike",
+  "homepage": "https://adityaxkurama.github.io/Nike-Landing-Page/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,9 +9,12 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "host": "vite --host"
+    "host": "vite --host",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "gh-pages": "^6.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
